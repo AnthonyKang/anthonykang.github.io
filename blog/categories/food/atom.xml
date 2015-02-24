@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Food | My Octopress Blog]]></title>
   <link href="http://anthonykang.github.io/blog/categories/food/atom.xml" rel="self"/>
   <link href="http://anthonykang.github.io/"/>
-  <updated>2015-02-24T01:02:49-05:00</updated>
+  <updated>2015-02-24T01:08:29-05:00</updated>
   <id>http://anthonykang.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,8 +18,11 @@
     <link href="http://anthonykang.github.io/blog/2015/02/24/first-post/"/>
     <updated>2015-02-24T00:11:46-05:00</updated>
     <id>http://anthonykang.github.io/blog/2015/02/24/first-post</id>
-    <content type="html"><![CDATA[<p>So this is my first blog post using octopress. Let&rsquo;s just see what happens&hellip;
-I&rsquo;m going to need some time to get used to markdown.</p>
+    <content type="html"><![CDATA[<div>
+So this is my first blog post using octopress. Let&#8217;s just see what happens&#8230; 
+I&#8217;m going to need some time to get used to markdown.
+</div>
+
 
 <p>Hello </p>
 ]]></content>
