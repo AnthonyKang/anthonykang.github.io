@@ -4,10 +4,10 @@
   <title><![CDATA[Category: Daily | My Octopress Blog]]></title>
   <link href="http://anthonykang.github.io/blog/categories/daily/atom.xml" rel="self"/>
   <link href="http://anthonykang.github.io/"/>
-  <updated>2015-02-24T01:08:29-05:00</updated>
+  <updated>2015-02-24T01:15:55-05:00</updated>
   <id>http://anthonykang.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Anthony Kang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -20,7 +20,7 @@
     <id>http://anthonykang.github.io/blog/2015/02/24/first-post</id>
     <content type="html"><![CDATA[<div>
 So this is my first blog post using octopress. Let&#8217;s just see what happens&#8230; 
-I&#8217;m going to need some time to get used to markdown.
+I&#8217;m going to need some time to get used to jeykll.
 </div>
 
 
