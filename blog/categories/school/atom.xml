@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Food | Episodes of Sleep]]></title>
-  <link href="http://anthonykang.github.io/blog/categories/food/atom.xml" rel="self"/>
+  <title><![CDATA[Category: School | Episodes of Sleep]]></title>
+  <link href="http://anthonykang.github.io/blog/categories/school/atom.xml" rel="self"/>
   <link href="http://anthonykang.github.io/"/>
   <updated>2015-02-24T18:35:16-05:00</updated>
   <id>http://anthonykang.github.io/</id>
@@ -23,21 +23,6 @@ Coincidentally (kind of sad I had to look up how to spell that) I didn&#8217;t r
 I changed the rakefile to generate html posts instead of markdown cause fuck that shit&#8230;.
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://anthonykang.github.io/blog/2015/02/24/first-post/"/>
-    <updated>2015-02-24T00:11:46-05:00</updated>
-    <id>http://anthonykang.github.io/blog/2015/02/24/first-post</id>
-    <content type="html"><![CDATA[<div>
-So this is my first blog post using octopress. Let&#8217;s just see what happens&#8230; 
-I&#8217;m going to need some time to get used to jeykll.
-</div>
-
-
-<p>Hello </p>
 ]]></content>
   </entry>
   

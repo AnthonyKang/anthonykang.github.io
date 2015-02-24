@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Daily | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Daily | Episodes of Sleep]]></title>
   <link href="http://anthonykang.github.io/blog/categories/daily/atom.xml" rel="self"/>
   <link href="http://anthonykang.github.io/"/>
-  <updated>2015-02-24T01:54:03-05:00</updated>
+  <updated>2015-02-24T18:35:16-05:00</updated>
   <id>http://anthonykang.github.io/</id>
   <author>
     <name><![CDATA[Anthony Kang]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Circuits Suck]]></title>
+    <link href="http://anthonykang.github.io/blog/2015/02/24/circuits-suck/"/>
+    <updated>2015-02-24T18:29:20-05:00</updated>
+    <id>http://anthonykang.github.io/blog/2015/02/24/circuits-suck</id>
+    <content type="html"><![CDATA[<div>
+Coincidentally (kind of sad I had to look up how to spell that) I didn&#8217;t remember my dream from last night. That&#8217;s pretty unusual, I hope to record my dreams here.
+I changed the rakefile to generate html posts instead of markdown cause fuck that shit&#8230;.
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
