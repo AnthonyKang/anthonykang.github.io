@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://anthonykang.github.io/blog/2015/02/27/placeholder/</loc>
+    <lastmod>2015-02-27T00:59:56-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://anthonykang.github.io/blog/2015/02/26/protect-the-freaking-ball/</loc>
+    <lastmod>2015-02-26T23:30:12-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://anthonykang.github.io/blog/2015/02/25/sat-down-on-the-test-bench/</loc>
     <lastmod>2015-02-25T22:48:46-05:00</lastmod>
   </url>
@@ -14,14 +22,14 @@
   </url>
   <url>
     <loc>http://anthonykang.github.io/about/</loc>
-    <lastmod>2015-02-26T00:09:42-05:00</lastmod>
+    <lastmod>2015-02-27T01:00:21-05:00</lastmod>
   </url>
   <url>
     <loc>http://anthonykang.github.io/</loc>
-    <lastmod>2015-02-26T00:09:42-05:00</lastmod>
+    <lastmod>2015-02-27T01:00:21-05:00</lastmod>
   </url>
   <url>
     <loc>http://anthonykang.github.io/blog/archives/</loc>
-    <lastmod>2015-02-26T00:09:42-05:00</lastmod>
+    <lastmod>2015-02-27T01:00:21-05:00</lastmod>
   </url>
 </urlset>
