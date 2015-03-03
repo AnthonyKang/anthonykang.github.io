@@ -4,7 +4,7 @@
   <title><![CDATA[Episodes of Sleep]]></title>
   <link href="http://anthonykang.github.io/atom.xml" rel="self"/>
   <link href="http://anthonykang.github.io/"/>
-  <updated>2015-03-02T01:01:33-05:00</updated>
+  <updated>2015-03-03T00:39:24-05:00</updated>
   <id>http://anthonykang.github.io/</id>
   <author>
     <name><![CDATA[Anthony Kang]]></name>
@@ -12,6 +12,72 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Got Smashed on an Interview]]></title>
+    <link href="http://anthonykang.github.io/blog/2015/03/02/got-smashed-on-an-interview/"/>
+    <updated>2015-03-02T23:32:12-05:00</updated>
+    <id>http://anthonykang.github.io/blog/2015/03/02/got-smashed-on-an-interview</id>
+    <content type="html"><![CDATA[<div>
+<h3>Grand theft of my breath</h3>
+	<p>
+		All right you guys are in for a fucking story today, I actually remembered my dream and wrote stuff to help me remember. First of all, in a lot of my dreams I&#8217;m typically put in to the kind of scenario similar to GTA. If you&#8217;ve played GTA before, if you don&#8217;t have cheats enabled, when you actually get wanted stars, the police chase after you and you actually have to hide. But that&#8217;s just a video game, imagine you&#8217;re in that scenario in your dream. When I dream, they&#8217;re lucid in the sense that I&#8217;m conscious of whats going on, and the fact that I&#8217;m dreaming, but not in the sense where I can control my dream. I can control my actions, but within the real life limits of the scene I&#8217;m dumped in to. So I&#8217;m part of some 4 man hunter team and we&#8217;re wanted by the police and we&#8217;re at my old high school. We&#8217;re sneaking around and I just feel it in my heart that we&#8217;re fucked so I just book it and run through the school, through class rooms and doors and gyms and climbing shit and I eventually make it and hide in a tree. The thing is I actually feel the nervousness and heart papulations you would get if this was actually happening. For some reason I&#8217;m always fucking running away from something in my dreams.
+	</p>
+	<p>
+		The second part of my dream was even more fucked up. I&#8217;m still part of this four man team, but we&#8217;re thrown in some labyrinth to hunt another 4 man team. Or rather, we&#8217;re also being hunted. So we had some gear where we could share vision with each other, so I saw when one of my team mates was pinned against a wall staring down the barrel of an enemy charging her laser beams. But because this is a dream, my teammate did something absolutely crazy and somehow opened a dimension portal where she was and where another enemy was and swapped positions. So then the enemy was going to shoot her own teammates. But my teammate fucked up and the portal she opened closed on her arm, but she didin&#8217;t lose her arm, she just lost the soul within her arm&#8230; So she tried to recover it by siphoning some soul from another teammate. But that teammate was being hunted and he was hiding from his hunter by making clones of himself so his hunter could not figure out which was the real one, but when my first teammate tried linking her soul with him, it gave away which of the clones was real. I was thinking to myself shit she fucked everything up, and then I woke up. Dreams pretty fucking real&#8230;.
+	</p>
+</div>
+<div>
+	<h2>I can make a better looking one (promise)</h2>
+	<img class="center" src="http://anthonykang.github.io/images/breakfast_3_2.png" width="350" height="350">
+	<p>I was dam tired this morning, so presentation and precision was at an absolute minimum when making this egg sandwich.</p>
+</div>
+<div>
+	<p>
+		Remeber when I said my group wanted to make a GPU on an FPGA. Well we decided since we know nothing about FPGAs and nothing about GPUs we&#8217;re just going to do triple DES encryption on an FPGA instead. That way we&#8217;re only completely clueless on half the project.
+	</p>
+	<p>
+		I also started replaying Fire Emblem: Sacred Stones today, that games bomb.
+	</p>
+</div>
+<div>
+	<h2>Roasted Chicken Drumsticks</h2>
+	<img class="center" src="http://anthonykang.github.io/images/lunch_3_2.png" width="400" height="400">
+	<p>
+		Working on the chest today so I made some chicken for lunch. 
+		I think the best way to impart flavor on meat isn&#8217;t with a marinade, or seasoning, or sauce, but my perfectly cooking the meat to exact tenderness. Exact doneness. Not overcooked or undercooked, but precisely cooked. And that is what you see here. FUCK YEAAAAA (Ok it&#8217;s a tad undercooked but I was hungry)
+	</p>
+	<p>
+		I&#8217;ll post some recipes enventually.
+	</p>
+</div>
+<div>
+	<h2>Informatica Interview</h2>
+	<p>
+		So I had a second round interview with Informatica today for the software developer position, and I felt decently confident going in to it because I had already been offered by Amazon (pure luck). I&#8217;m pretty confident with all data structure oreinted questions, but today I was thrown a pretty big curve ball and I just ended up being stomped on. I don&#8217;t know if I just wasn&#8217;t feeling it today, but either way this was pretty humbling.
+	</p>
+	<p>
+		Given an n-ary tree where root nodes can have multiple children, nodes can share children, and children can share parents, reverse the tree and return a list of the leaf nodes. 
+	</p>
+	<p>
+		I couldn&#8217;t solve it within the time limit, and even after working out the problem after the interview, I still don&#8217;t fully understand it. 
+	</p>
+	<p>
+		Here&#8217;s a good <a href="http://www.careercup.com/question?id=12219054">thread</a> on the question. 
+	</p>
+</div>
+<div>
+	<h2>Chinese Smoked Beef</h2>
+	<img class="center" src="http://anthonykang.github.io/images/dinner_3_2.png" width="400" height="400">
+	<p>
+		So my dad sent me some chinese style smoked beef brisket. So unlike the American BBQ style brisket, the chinese or perhaps taiwanese style is alot firmer. Also it&#8217;s usually eaten chilled or at room temperature. But the point is it&#8217;s fucking good and its fucking dense and I might have eaten like a full pound of it for dinner. It&#8217;s hiding under the brocolli which I added to help push the beef out the other end. 
+	</p>
+</div>
+<p>
+	I was kinda sad beacuse the Warriors lost today, freaking Jarret Jack. But shout out to Captain Kirk for making me feel better. 
+	<video  preload='metadata' controls ><source src='http://anthonykang.github.io/videos/bbal_3_2.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
+</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[KOBEEEEE]]></title>
