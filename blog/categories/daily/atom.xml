@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Daily | Episodes of Sleep]]></title>
   <link href="http://anthonykang.github.io/blog/categories/daily/atom.xml" rel="self"/>
   <link href="http://anthonykang.github.io/"/>
-  <updated>2015-03-03T00:39:24-05:00</updated>
+  <updated>2015-03-04T00:58:30-05:00</updated>
   <id>http://anthonykang.github.io/</id>
   <author>
     <name><![CDATA[Anthony Kang]]></name>
@@ -12,6 +12,81 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I'm a Penguin]]></title>
+    <link href="http://anthonykang.github.io/blog/2015/03/03/im-a-penguin/"/>
+    <updated>2015-03-03T23:13:17-05:00</updated>
+    <id>http://anthonykang.github.io/blog/2015/03/03/im-a-penguin</id>
+    <content type="html"><![CDATA[<p>
+    Unfortunately I can&#8217;t remember my dream from last night. I remember remembering it in the morning but I must have deemed it not interesting enough to note.
+</p>
+
+
+<h2>Cashew Butter</h2>
+
+
+<p>
+    <img class="center" src="/images/breakfast_3_3.png" width="350" height="350">
+    The only difference today is that the bread has cashew butter on it instead of peanut butter. 
+</p>
+
+
+<p>
+    So why am I a penguin? Well because my campus turned in to the antarctic. We had tons of snow the past couple days, and when that shit melts, it leaves hella puddles on the ground and leaves the sidewalks and roads completely covered in water. Night comes, and BAM the campus becomes a ice rink. I stepped outside my apartment complex this morning and basically slid from my door to the beginning of the steps. I managed to get down the steps by tightly gripping the frozen hand rail, and then proceeded to shuffle my way to class. Not even boots can help you in these conditions, your need straight up cleats.
+</p>
+
+
+<h2>Qdoba</h2>
+
+
+<p>
+    <img class="left" src="/images/lunch1_3_3.png" width="370" height="370">
+    <img class="right" src="/images/lunch2_3_3.png" width="370" height="370">
+</p>
+
+
+<h2>&nbsp</h2>
+
+
+<p>
+    So queso and chips are usually like 4 dollars extra on top of waht you pay for a burrito bowl at Qdoba but if you ask for nachos with all the stuff that goes in a burrito bowl, its the equivilant of getting a burrito bowl with a side of nachos. Freaking amazing. theres like a pool of spicy melted cheese under all that in bowl, and they give you a shit ton of chips. It&#8217;s not particularly healthy but I fills me up for 8 dollars and that&#8217;s not something most places can claim. 
+</p>
+
+
+<p>
+    I also had a nice talk with my friend Akshay. Shit that guys got it all planned out. Work after graduation until he&#8217;s 35. Move back to India and start his own company until he&#8217;s 55. He&#8217;s gonna be married at 24 or 26 latest. He knows how much money he wants in his bank account when he&#8217;s at certain ages. All I know is Keenan telling me that my bank of america account got 6 figures.
+</p>
+
+
+<h2>Chicken Thighs in Bacon Fat</h2>
+
+
+<p><img class="left" src="/images/chicken_3_3.png" width="370" height="370">
+<img class="right" src="/images/dinner_3_3.png" width="370" height="370"></p>
+
+<h2>&nbsp</h2>
+
+
+<p>
+    From the sound it makes in the pan to the how it looks on the plate to how good it is, this chicken is bomb. Unghhhh. The onions are nice after being baked along with the chicken. And of course brocolli for health. 
+</p>
+
+
+<h2>Mixing it up</h2>
+
+
+<p>
+    Mixed it up with some box jumps. I&#8217;m about 5&#8217;10&#8221;, which is pretty short in the Midwest. But anyways, the box is about up to my clavicle so I&#8217;d say this is around a 5 foot jump.
+</p>
+
+
+<div style="width:300px; height:550px; align:center">
+    <video width='300' height='300' preload='metadata' controls ><source src='/videos/gym_3_3_converted.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Got Smashed on an Interview]]></title>
@@ -217,50 +292,6 @@
     </div>
 </div>
 
-
-<p></body></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sat Down on the Test Bench]]></title>
-    <link href="http://anthonykang.github.io/blog/2015/02/25/sat-down-on-the-test-bench/"/>
-    <updated>2015-02-25T22:48:46-05:00</updated>
-    <id>http://anthonykang.github.io/blog/2015/02/25/sat-down-on-the-test-bench</id>
-    <content type="html"><![CDATA[<p><body>
-    <div>
-        So I&rsquo;ve been playing this game on my phone called Crossy Street where you&rsquo;re basically a cute little animal and you try to cross streets frogger style. So I dreamt I was a dam duck trying to cross a street full of cars trying to kill me. And some dude in my dream kept trying to tell me that closing tags were unnecessary. Nightmares of making pages with Jade I guess.
-    </div>
-    <h2> Cajun Sausage Eggs (Again) </h2>
-    <div><img class="center" src="/images/breakfast_2_25.png" width="350" height="350"></div>
-    <div>
-        I told you guys I eat this shit every dam day. I&rsquo;m excited to wake up in the morning and eat this. I promise I&rsquo;ll have new type of sausage soon I&rsquo;m running out of the cajun ones. But today I found a freaking size large egg in my box of jumbo eggs. Dam Purdue market tryna rip me.
-    </div>
-    <br/>
-    <div>
-        Today&rsquo;s software tools lab challenge for my ECE364 class was to write a bunch of functions to parse an XML document with regex. If you&rsquo;ve used regex before, then it&rsquo;s obvious how powerful it can be, but also how convuluted the patterns can be. I mean, look at this ip address match:
-        <div>
-            <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">m</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="s">r&#39;(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)(.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}:([0-9]{1,4}|[12][0-9]{4}|3[01][0-9]{3}|32[0-6][0-9]{2}|327[0-5][0-9]|3276[0-7])&amp;lsquo;,line)</span>
-</span></code></pre></td></tr></table></div></figure>
-        </div>
-        Maybe I&rsquo;m weird but I think coming up with Regex patterns is kind of fun heheh. After lab me and my chut Jakshay went to get some gyros.
-        <h2>Captain Gyro</h2>
-        <div><img class="center" src="/images/lunch_2_25.png" width="350" height="350"></div>
-        <div>
-            Its harder to find diversified cuisine here in Indiana but Captain Gyro is an exception. It&rsquo;s owned by some old dude straight out of Greece and he&rsquo;s got one of those rotating spools of gyro meat and he shaves that shit straight in to some pita bread and its on point. The sandwich here is has extra vegetables (gotta get that fiber) but its filled with meat. No nonsense homemade gyro&rsquo;s.
-        </div>
-        <h2>Sit Down Boi</h2>
-        <div><img class="center" src="/images/lab_2_25.png" width="450" height="450"></div>
-        <div>
-            I wish I knew what I was getting myself in to when I said I wanted to be a computer engineer. I was not ready to deal with all this hardware stuff. Who the hell wants to write a test bench for this monstrosity. Looking at the mapped design makes me need to sit down. I&rsquo;ll probably appreciate timing problems and meta stable states as I progress&hellip;or maybe not.
-        </div>
-        <h2>Bacon Fried Rice</h2>
-        <div><img class="center" src="/images/dinner_2_25.png" width="450" height="450"></div>
-        <div>
-            You can&rsquo;t see the bacon but that shit was on sale and it&rsquo;s in there and yes its good. All you see are veggies cause I&rsquo;m all about those veggies. I&rsquo;ll break out the wok one day to make some legit fried rice but today I was just hungry so this is all there is. Ok, I&rsquo;m eating some thin mints as I write this.<br/>
-        </div>
-    </div></p>
 
 <p></body></p>
 ]]></content>
