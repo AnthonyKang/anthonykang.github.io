@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://anthonykang.github.io/blog/2015/03/15/finished-house-of-cards/</loc>
+    <lastmod>2015-03-15T22:46:19-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://anthonykang.github.io/blog/2015/03/14/spring-break/</loc>
     <lastmod>2015-03-14T21:43:53-04:00</lastmod>
   </url>
@@ -74,14 +78,14 @@
   </url>
   <url>
     <loc>http://anthonykang.github.io/about/</loc>
-    <lastmod>2015-03-15T00:08:34-04:00</lastmod>
+    <lastmod>2015-03-15T23:56:33-04:00</lastmod>
   </url>
   <url>
     <loc>http://anthonykang.github.io/</loc>
-    <lastmod>2015-03-15T00:08:34-04:00</lastmod>
+    <lastmod>2015-03-15T23:56:33-04:00</lastmod>
   </url>
   <url>
     <loc>http://anthonykang.github.io/blog/archives/</loc>
-    <lastmod>2015-03-15T00:08:34-04:00</lastmod>
+    <lastmod>2015-03-15T23:56:33-04:00</lastmod>
   </url>
 </urlset>
